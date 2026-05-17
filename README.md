@@ -316,7 +316,7 @@ cat mnt/tujuan.txt
 # 8. Unmount setelah selesai
 fusermount3 -u mnt
 ```
-![alt text](image.png)
+![alt text](assets/image.png)
 ---
 
 ### Output
@@ -368,4 +368,4 @@ cat mnt/tujuan.txt
 
 ### Kendala
 
-Tidak ada kendala.
+Masih tidak paham dengan doker sehingga hanya menegrjakan no 1, mengerjakan no 2 namun tidak sampai selesai dan masih banyak errornya
